@@ -1,4 +1,3 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/c2bfb428-7321-4bd2-8d85-2b374687553f/resourceGroups/rg_csWorks/providers/Microsoft.Web/sites/csMERN",
     "appService.deploySubpath": "."
 }
